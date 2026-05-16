@@ -1,0 +1,8 @@
+{
+  "name": "skills-tutorial",
+  "description": "A progressive tutorial plugin for learning how to build Claude Code skills — from simple model-invoked context to full multi-agent orchestration pipelines.",
+  "author": {
+    "name": "Sam Grennan",
+    "email": "sam.grennan8@gmail.com"
+  }
+}
